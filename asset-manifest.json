@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/html/static/css/main.f89b6bd2.chunk.css",
-    "main.js": "/html/static/js/main.a1580b6f.chunk.js",
-    "main.js.map": "/html/static/js/main.a1580b6f.chunk.js.map",
+    "main.css": "/html/static/css/main.59983f1b.chunk.css",
+    "main.js": "/html/static/js/main.b00ea32d.chunk.js",
+    "main.js.map": "/html/static/js/main.b00ea32d.chunk.js.map",
     "runtime-main.js": "/html/static/js/runtime-main.63ba13ba.js",
     "runtime-main.js.map": "/html/static/js/runtime-main.63ba13ba.js.map",
     "static/css/2.359a31cb.chunk.css": "/html/static/css/2.359a31cb.chunk.css",
-    "static/js/2.1d4315a6.chunk.js": "/html/static/js/2.1d4315a6.chunk.js",
-    "static/js/2.1d4315a6.chunk.js.map": "/html/static/js/2.1d4315a6.chunk.js.map",
+    "static/js/2.d7157c16.chunk.js": "/html/static/js/2.d7157c16.chunk.js",
+    "static/js/2.d7157c16.chunk.js.map": "/html/static/js/2.d7157c16.chunk.js.map",
     "index.html": "/html/index.html",
-    "precache-manifest.f0ec593fb84b2928dce20783f241d9a5.js": "/html/precache-manifest.f0ec593fb84b2928dce20783f241d9a5.js",
+    "precache-manifest.bfa548268e96dbb68f74b759d5bab178.js": "/html/precache-manifest.bfa548268e96dbb68f74b759d5bab178.js",
     "service-worker.js": "/html/service-worker.js",
     "static/css/2.359a31cb.chunk.css.map": "/html/static/css/2.359a31cb.chunk.css.map",
-    "static/css/main.f89b6bd2.chunk.css.map": "/html/static/css/main.f89b6bd2.chunk.css.map",
-    "static/js/2.1d4315a6.chunk.js.LICENSE.txt": "/html/static/js/2.1d4315a6.chunk.js.LICENSE.txt",
+    "static/css/main.59983f1b.chunk.css.map": "/html/static/css/main.59983f1b.chunk.css.map",
+    "static/js/2.d7157c16.chunk.js.LICENSE.txt": "/html/static/js/2.d7157c16.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/html/static/media/avatar.451622b6.png",
     "static/media/index.scss": "/html/static/media/logo-full.8d0f008e.svg",
-    "static/media/fontello.css": "/html/static/media/fontello.afdb9e51.woff",
+    "static/media/fontello.css": "/html/static/media/fontello.f7982f0d.ttf",
     "static/media/slick-theme.css": "/html/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.63ba13ba.js",
     "static/css/2.359a31cb.chunk.css",
-    "static/js/2.1d4315a6.chunk.js",
-    "static/css/main.f89b6bd2.chunk.css",
-    "static/js/main.a1580b6f.chunk.js"
+    "static/js/2.d7157c16.chunk.js",
+    "static/css/main.59983f1b.chunk.css",
+    "static/js/main.b00ea32d.chunk.js"
   ]
 }
